@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-static-safe-area-insets": "grifotv/react-native-static-safe-area-insets#5735d88563e7c64e7c9cc4d13082cfddb6c03b9f"
   },
   "devDependencies": {
